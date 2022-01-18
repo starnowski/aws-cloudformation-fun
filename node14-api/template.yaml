@@ -22,7 +22,8 @@ Resources:
   getAllItemsFunction:
     Type: AWS::Serverless::Function
     Properties:
-      Handler: src/handlers/get-all-items.getAllItemsHandler
+#      Handler: src/handlers/get-all-items.getAllItemsHandler
+      Handler: dist/handlers/get-all-items.getAllItemsHandler
       Runtime: nodejs14.x
       Architectures:
         - x86_64
