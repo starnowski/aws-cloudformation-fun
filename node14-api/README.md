@@ -164,3 +164,9 @@ Next, you can use the AWS Serverless Application Repository to deploy ready-to-u
 https://evilmartians.com/chronicles/serverless-typescript-a-complete-setup-for-aws-sam-lambda
 
 https://www.cloudmailin.com/blog/using-typescript-with-aws-lambda - cool tutorial
+
+https://aws.amazon.com/blogs/database/best-practices-for-working-with-amazon-aurora-serverless/
+
+Aurora local testing
+https://github.com/koxudaxi/local-data-api/
+https://hub.docker.com/r/koxudaxi/local-data-api
