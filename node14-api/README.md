@@ -162,3 +162,5 @@ Next, you can use the AWS Serverless Application Repository to deploy ready-to-u
 
 ## Links
 https://evilmartians.com/chronicles/serverless-typescript-a-complete-setup-for-aws-sam-lambda
+
+https://www.cloudmailin.com/blog/using-typescript-with-aws-lambda - cool tutorial
