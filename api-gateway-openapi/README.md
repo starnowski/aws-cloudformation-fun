@@ -6,6 +6,10 @@ https://www.alexdebrie.com/posts/api-gateway-elements/
 
 ### Testing response templates
 https://www.npmjs.com/package/api-gateway-template-tester
+https://www.npmjs.com/search?q=velocity+template
+https://github.com/ToQoz/api-gateway-mapping-template
+
+https://docs.aws.amazon.com/appsync/latest/devguide/resolver-mapping-template-reference-programming-guide.html
 
 This project contains source code and supporting files for a serverless application that you can deploy with the AWS Serverless Application Model (AWS SAM) command line interface (CLI). It includes the following files and folders:
 
